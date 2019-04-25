@@ -6,7 +6,7 @@
 ### Author: Alexander White
 
 ### Links and Resources
-* [PR](https://github.com/alex-white-401-advanced-javascript/express-warmup)
+* [PR](https://github.com/alex-white-401-advanced-javascript/express-warmup/pull/1)
 * [Travis]()
 * [Heroku]()
 
